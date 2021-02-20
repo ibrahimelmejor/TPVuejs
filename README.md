@@ -1,5 +1,7 @@
 # myapp
 
+cd TPVuejs
+
 ## Project setup
 ```
 npm install
