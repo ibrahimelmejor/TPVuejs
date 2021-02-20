@@ -1,6 +1,8 @@
 # myapp
 
-Steps to reproduce : 
+### Steps to reproduce : 
+
+Step 0 : git clone https://github.com/ibrahimelmejor/TPVuejs.git
 
 Step 1 : cd TPVuejs
 
